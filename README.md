@@ -1,1 +1,1 @@
-Password strength Indicator CSS|JS
+Password strength Indicator CSS | JS
